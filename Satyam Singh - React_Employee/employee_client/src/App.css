@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #f0f87f;
+  position: relative;
+  flex-direction: column;
+}
+
+
+
